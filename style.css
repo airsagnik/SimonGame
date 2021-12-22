@@ -1,0 +1,64 @@
+body
+{
+  background-color: #1A374D;
+  text-align: center;
+
+
+}
+.wrong
+{
+  background-color: red;
+}
+h1
+{
+  color: white;
+  font-family: 'VT323', monospace;
+  font-size: 4rem;
+}
+
+.color-box
+{
+  height: 200px;
+  width: 250px;
+  border-radius: 10%;
+
+  align-items: center;
+  text-align:center;
+
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-style: solid;
+  border-width: 10px;
+}
+.col
+{
+  text-align: center;
+  margin-left: auto;
+  margin-right: 10px;
+
+}
+.no1
+{
+  background-color: red;
+  margin-left: auto;
+
+}
+.no2
+{
+  background-color: blue;
+}
+.no3
+{
+  background-color: green;
+  margin-left: auto;
+}
+.no4
+{
+  background-color: yellow;
+}
+
+.clickin
+{
+  opacity: 0.5;
+  border-color: white;
+}
